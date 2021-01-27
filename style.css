@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    background: rgb(8, 172, 194);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 969px;
+    position: relative;
+    
+       
+  
+}
+
+.card{
+    border-radius: 10px;
+    background-position: center;
+    margin-top: 150px;
+    margin-left: 700px;
+    height: 480px;
+    width: 500px;
+    background-color: #fff;
+    position: absolute;
+    
+    
+
+}
+
+.cover{
+    border-radius: 10px 10px 0 0;
+    height: 180px;
+    position: relative;
+    background-image: url(images/bg-pattern-card-img.svg);
+    
+
+    
+}
+
+.picture{
+    border-radius: 100%;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 200px;
+}
+
+.picture img{
+    border-radius: 100%;
+   
+}
+
+
+
+
+.middle-sector h3{
+    position: relative;
+    text-align: center;
+    
+}
+
+.name-sector h3{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 880px;
+}
+
+
+
+
+.name-sector{
+    position: relative;
+}
+
+.london-ermarechudi {
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 925px;
+    color: rgb(129, 128, 128);
+}
+
+
+
+
+.riju{
+    position: relative;
+}
+
+.hr-line{
+    width: 498px;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 700px;
+}
+
+
+.footer-area{
+    position: relative;
+    text-align: center;
+   
+}
+
+
+.age{
+    font-weight: 20;
+    color: rgb(129, 128, 128);
+}
+
+
+
+
+.footer-header{
+    display: flex;
+    position: absolute;
+    margin-top: 545px;
+    margin-left: 700px;
+    flex: 1;
+    text-align: center;
+    
+}
+
+.riju-chotovai{
+
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
